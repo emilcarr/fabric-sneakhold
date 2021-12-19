@@ -1,6 +1,7 @@
 # Fabric Sneak Hold
 
 Adds a configurable key to toggle sneak and sprint to Minecraft with Fabric. Compatible with Minecraft 1.16.x.
+This mod is **not** allowed on Hypixel and some other servers as it allows you to sneak while inside GUIs. Use at your own caution!
 
 ## Installation
 
